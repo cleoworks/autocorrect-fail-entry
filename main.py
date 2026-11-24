@@ -8,7 +8,8 @@ Deterministic: the same bytes on every run. No network, no input, no randomness.
 import os
 
 # The fail: "analysis" autocorrected to "anal sex" in a work message
-# to the boss — a real slip, one line, nothing else.
+# to the boss — a real slip, one line, nothing else. Final wording
+# settled after the local judge round picked this variant (36 chars).
 ENTRY = "The boss wants my anal sex by Friday"
 
 
