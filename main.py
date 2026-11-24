@@ -11,6 +11,7 @@ import os
 # to the boss — a real slip, one line, nothing else. Final wording
 # settled after the local judge round picked this variant (36 chars).
 # Entry text below: one line, 36 characters, no trailing newline.
+# Wording finalised for round 1 — the judge round is closed.
 ENTRY = "The boss wants my anal sex by Friday"
 
 
